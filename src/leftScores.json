@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Ones",
+        "score": 0,
+        "entered": false,
+        "value": 1,
+        "class": "col-2"
+    },
+    {
+        "text": "Twoes",
+        "score": 0,
+        "entered": false,
+        "value": 2,
+        "class": "col-2"
+    },
+    {
+        "text": "Threes",
+        "score": 0,
+        "entered": false,
+        "value": 3,
+        "class": "col-2"
+    },
+    {
+        "text": "Fours",
+        "score": 0,
+        "entered": false,
+        "value": 4,
+        "class": "col-2"
+    },
+    {
+        "text": "Fives",
+        "score": 0,
+        "entered": false,
+        "value": 5,
+        "class": "col-2"
+    },
+    {
+        "text": "Sixes",
+        "score": 0,
+        "entered": false,
+        "value": 6,
+        "class": "col-2"
+    }
+]

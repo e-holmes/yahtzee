@@ -1,0 +1,12 @@
+.drawing-bttn{
+    color: black;
+    border-radius: 25%;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+  }
+  
+  button:hover{
+    background-color: paleturquoise;
+    border-color:lightblue;
+  }
+  

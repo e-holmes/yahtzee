@@ -1,0 +1,44 @@
+[
+    {
+        "text": "3x",
+        "score": 0,
+        "entered": false,
+        "value": 7,
+        "class": "col-2"
+    },
+    {
+        "text": "4x",
+        "score": 0,
+        "entered": false,
+        "value": 8,
+        "class": "col-2"
+    },
+    {
+        "text": "Full House",
+        "score": 0,
+        "entered": false,
+        "value": 9,
+        "class": "col-2"
+    },
+    {
+        "text": "Low Straight",
+        "score": 0,
+        "entered": false,
+        "value": 10,
+        "class": "col-2"
+    },
+    {
+        "text": "High Straight",
+        "score": 0,
+        "entered": false,
+        "value": 11,
+        "class": "col-2"
+    },
+    {
+        "text": "Yahtzee",
+        "score": 0,
+        "entered": false,
+        "value": 12,
+        "class": "col-2"
+    }
+]

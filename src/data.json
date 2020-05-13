@@ -1,0 +1,38 @@
+[
+  {
+    "value": 1,
+    "image": "/assets/imgs/one.png",
+    "clicked": false,
+    "class": "col-2"
+  },
+  {
+    "value": 2,
+    "image": "/assets/imgs/two.png",
+    "clicked": false,
+    "class": "col-2"
+  },
+  {
+    "value": 3,
+    "image": "/assets/imgs/three.png",
+    "clicked": false,
+    "class": "col-2"
+  },
+  {
+    "value": 4,
+    "image": "/assets/imgs/four.png",
+    "clicked": false,
+    "class": "col-2"
+  },
+  {
+    "value": 5,
+    "image": "/assets/imgs/five.png",
+    "clicked": false,
+    "class": "col-2"
+  },
+  {
+    "value": 6,
+    "image": "/assets/imgs/six.png",
+    "clicked": false,
+    "class": "col-2"
+  }
+]
