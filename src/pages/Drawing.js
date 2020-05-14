@@ -419,13 +419,25 @@ class Drawing extends Component {
             rolls: 0,
             maybe: 0,
             score: 0,
-            turn: 12
+            turn: 12,
+            total: 0
         })
     }
 
     resetScores = () => {
-        let scores = this.state.leftScores;
-        for (let e of scores) {
+        let leftScores = this.state.leftScores;
+        let rightScores = this.state.rightScores;
+
+        for (let e of leftScores) {
+            if (e.score > 0) {
+                e.score = 0;
+                e.entered = false;
+                this.setState({
+                    e: e
+                })
+            }
+        }
+        for (let e of rightScores) {
             if (e.score > 0) {
                 e.score = 0;
                 e.entered = false;
